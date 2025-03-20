@@ -1,0 +1,12 @@
+[
+    {
+        "title": "MY BOOK",
+        "author": "Mehboob",
+        "year": 2021,
+        "genre": "Coding",
+        "read": [
+            true,
+            "y"
+        ]
+    }
+]
